@@ -576,17 +576,21 @@
 
 1. Shall represent the interests of the class year who elected them.
 2. Shall be chaired by the Chief Representative.
-3. Shall elect the Chief Representative from amongst themselves, by a class J vote.
-4. Shall act as judicial board for disciplinary action as deemed necessary.
-5. Has the power to levy fines and disciplinary action as deemed necessary.
-6. Shall be the final interpreters of the bylaws.
-7. Shall store case results and opinions on the chapter’s electronic storage system
-8. An appeal to the J-Board must be submitted by an active brother in writing
-9. Any appeal made to the J-Board may be dismissed without action if a unanimous Class J vote is made to dismiss the appeal.
-10. Shall submit an official decision in writing on all matters handled by the J-Board.
-11. Any decision made by the J-Board can be appealed, requiring a motion and two seconds, to the rest of the house. The appeal is successful if a Class XJ vote yields a two-thirds majority to overrule it. In this case, the decision is overturned.
-12. Any Judicial Board representative with vested interest in a Judicial Board decision can voluntarily abstain, or be made to abstain by a Class XJ vote, from the Judicial Board vote and decision.
-13. If the class J vote made to a resolve a Judicial Board decision is tied, the original result of the case is upheld. If not such result exists, the decision is left to the Archon.
+    a. Shall recieve appeals to J-Board and act as the principal communicator between the J-Board, the brotherhood at large, and the alumni association.
+    b. Shall call, organize and chair meetings of the J-Board.
+    c. Shall be responsible for notifying the chapter advisor whenever the J-Board is called.
+4. Shall elect the Chief Representative from amongst themselves, by a class J vote.
+5. Shall act as judicial board for disciplinary action as deemed necessary.
+6. Has the power to levy fines and disciplinary action as deemed necessary.
+7. Shall be the final interpreters of the bylaws.
+8. Shall store case results and opinions on the chapter’s electronic storage system
+9. An appeal to the J-Board must be submitted by an active brother in writing, including a timeframe for when to meet (i.e. level of urgency), a summary of the situation, and the desired outcome of the party.
+10. Any appeal made to the J-Board may be dismissed without action if a unanimous Class J vote is made to dismiss the appeal.
+11. Shall submit an official decision in writing on all matters handled by the J-Board.
+12. Any decision made by the J-Board can be appealed to the rest of the house by a class XJ vote, requiring a motion and two seconds. In this case, the J-Board's decision is overturned.
+13. Any J-Board representative with vested interest in a J-Board decision can voluntarily abstain, or be made to abstain by a Class XJ vote, from the J-Board vote and decision.
+    a. The remaining members of the J-Board may, by majority vote, proxy the position of any or all recused brothers to non-vested active brothers or alumni for the particular case.
+    b. A vested interest shall be loosely interpreted as a relationship with any involved party more emotionally charged than the average brother (i.e. an especially close friend, a big or little, a roommate, a romantic parter, etc).
 
 ### Section 3: Community Relations Committee
 
