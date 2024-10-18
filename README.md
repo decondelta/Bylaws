@@ -109,7 +109,7 @@
 
 ### Officers at Time of Ratification
 
-- Archon: ZCynthia Wu
+- Archon: Cynthia Wu
 - Vice President of Internal Affairs: Kai Surlis
 - Vice President of External Affairs: Beatrix Malay
 - Treasurer: Sherry Li
