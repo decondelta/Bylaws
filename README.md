@@ -576,6 +576,9 @@
 
 1. Shall represent the interests of the class year who elected them.
 2. Shall be chaired by the Chief Representative.
+    a. Shall recieve appeals to J-Board and act as the principal communicator between the J-Board, the brotherhood at large, and the alumni association.
+    b. Shall call, organize and chair meetings of the J-Board.
+    c. Shall be responsible for notifying the chapter advisor whenever the J-Board is called.
 3. Shall elect the Chief Representative from amongst themselves, by a class J vote.
 4. Shall act as judicial board for disciplinary action as deemed necessary.
 5. Has the power to levy fines and disciplinary action as deemed necessary.
