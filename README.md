@@ -109,12 +109,12 @@
 
 ### Officers at Time of Ratification
 
-- Archon: Zachary Niles Peretz
-- Vice President of Internal Affairs: Carsen Clark
-- Vice President of External Affairs: Kai Surlis
-- Treasurer: Camille Brent
-- House Manager: Benjamin Malay
-- Secretary: Kana Rudnick
+- Archon: ZCynthia Wu
+- Vice President of Internal Affairs: Kai Surlis
+- Vice President of External Affairs: Beatrix Malay
+- Treasurer: Sherry Li
+- House Manager: Janna Mousserie
+- Secretary: Violet Lu
 
 ## Article I: The Bylaws
 
