@@ -588,7 +588,7 @@
 9. Any appeal made to the J-Board may be dismissed without action if a unanimous Class J vote is made to dismiss the appeal.
 10. Shall submit an official decision in writing on all matters handled by the J-Board.
 11. Any decision made by the J-Board can be appealed to the rest of the house by a class XJ vote, requiring a motion and two seconds. In this case, the J-Board's decision is overturned.
-12. Any Judicial Board representative with vested interest in a Judicial Board decision can voluntarily abstain, or be made to abstain by a Class XJ vote, from the Judicial Board vote and decision.
+12. Any J-Board representative with vested interest in a J-Board decision can voluntarily abstain, or be made to abstain by a Class XJ vote, from the J-Board vote and decision.
 13. If the class J vote made to a resolve a Judicial Board decision is tied, the original result of the case is upheld. If not such result exists, the decision is left to the Archon.
 
 ### Section 3: Community Relations Committee
