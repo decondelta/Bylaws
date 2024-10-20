@@ -584,7 +584,10 @@
 5. Has the power to levy fines and disciplinary action as deemed necessary.
 6. Shall be the final interpreters of the bylaws.
 7. Shall store case results and opinions on the chapter’s electronic storage system.
-8. An appeal to the J-Board must be submitted by an active brother in writing.
+8. An appeal to the J-Board must be submitted by an active brother in writing and must include the following:
+    a. A timeframe for when to meet (i.e. level of urgency).
+    b. A summary of the situation.
+    c. The desired outcome of the party.
 9. Any appeal made to the J-Board may be dismissed without action if a unanimous Class J vote is made to dismiss the appeal.
 10. Shall submit an official decision in writing on all matters handled by the J-Board.
 11. Any decision made by the J-Board can be appealed to the rest of the house by a class XJ vote, requiring a motion and two seconds. In this case, the J-Board's decision is overturned.
