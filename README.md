@@ -590,6 +590,7 @@
 11. Any decision made by the J-Board can be appealed to the rest of the house by a class XJ vote, requiring a motion and two seconds. In this case, the J-Board's decision is overturned.
 12. Any J-Board representative with vested interest in a J-Board decision can voluntarily abstain, or be made to abstain by a Class XJ vote, from the J-Board vote and decision.
     a. The remaining members of the J-Board may, by majority vote, proxy the position of any or all recused brothers to non-vested active brothers or alumni for the particular case.
+    b. A vested interest shall be loosely interpreted as a relationship with any involved party more emotionally charged than the average brother (i.e. an especially close friend, a big or little, a roommate, a romantic parter, etc).
 13. If the class J vote made to a resolve a Judicial Board decision is tied, the original result of the case is upheld. If not such result exists, the decision is left to the Archon.
 
 ### Section 3: Community Relations Committee
